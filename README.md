@@ -1,3 +1,3 @@
 # WebCardHolder
 
-<input class="button" type="submit" value="Post comment (input)">
+<a href="#" class="button">Post comment</a>
