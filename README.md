@@ -1,3 +1,3 @@
 # WebCardHolder
 
-![Flowers](/flowers.jpeg)
+<input class="button" type="submit" value="Post comment (input)">
